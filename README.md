@@ -1,6 +1,6 @@
 # Convert svg to font icon
 
-This tool allows you to convert your svg icons to font icons. Simply upload your svg files and choose your desired font and size. The tool will generate a font file that you can download and use in your project.
+This tool allows you to convert your svg icons to font icons. Simply upload your svg files. The tool will generate a font file that you can download and use in your project.
 
 ### Installing
 
