@@ -1,0 +1,15 @@
+{
+  "name": "convert-svg-icons-to-font",
+  "version": "1.0.0",
+  "description": "An express application",
+  "main": "",
+  "scripts": {
+    "convert": "oslllo-svg-fixer -s svg -d icons --sp && fantasticon"
+  },
+  "author": "Michael Groeneweg",
+  "license": "ISC",
+  "dependencies": {
+    "fantasticon": "^1.2.3",
+    "oslllo-svg-fixer": "^2.1.2"
+  }
+}
