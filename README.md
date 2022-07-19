@@ -2,12 +2,25 @@
 
 ## Install
 
+# NPM
 ```
 $ npm install
 ```
 
-or
-
+# Yarn
 ```
 $ yarn install
+```
+
+
+## Usage
+
+```
+$ npm run convert
+```
+
+Or 
+
+```
+$ yarn convert
 ```
